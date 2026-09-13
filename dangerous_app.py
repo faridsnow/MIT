@@ -1,4 +1,4 @@
-﻿import os
+import os
 
 # 🚨 1. SIZMIŞ GİZLİ AÇARLAR (Secret Leaks)
 OPENAI_API_KEY = "sk-proj-9999888877776666555544443333222211110000"
